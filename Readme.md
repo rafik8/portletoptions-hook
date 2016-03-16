@@ -1,7 +1,7 @@
 # Portlet options hook
 This hook enable portal sign in users to maximize, minimize and restore portlets.
 
-![Portlet options](/screenshots/portlet-options.png.png?raw=true "Portlet options")
+![Portlet options](/screenshots/portlet-options.png?raw=true "Portlet options")
 
 ## Configuration
 
