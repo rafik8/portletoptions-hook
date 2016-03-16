@@ -1,7 +1,7 @@
 # Portlet options hook
 This hook enable portal sign in users to maximize, minimize and restore portlets.
 
-![Portlet options](/portletoptions-hook/screenshots/portlet-options.png?raw=true "Portlet options")
+![Portlet options](/screenshots/portlet-options.png.png?raw=true "Portlet options")
 
 ## Configuration
 
@@ -26,7 +26,7 @@ mvn clean install liferay:deploy -Pliferay62GA5
 
 2) check the hook deployment: login with a non admin account then check portlet options:
 
-![Portlet options](/portletoptions-hook/screenshots/portlet-options.png?raw=true "Portlet options")
+![Portlet options](/screenshots/portlet-options.png?raw=true "Portlet options")
 
 ## Integration
 In you have already a hook project you can esaly integrate this hook in yours, you just need to copy **portlet__render-ext.jsp** under *custom_jsps/html/portal*.
