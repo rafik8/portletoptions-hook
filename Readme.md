@@ -44,7 +44,7 @@ In you have already hooked this file, copy these lines from **portlet_render-ext
 
 ## Reference
 
-[Maximize and Minimize portlet option for signed in user](https://www.liferay.com/fr/web/jd.neha/blog/-/blogs/maximize-and-minimize-portlet-option-for-signed-in-use)
+[Maximize and Minimize portlet option for signed in user](https://www.liferay.com/fr/web/jd.neha/blog/-/blogs/maximize-and-minimize-portlet-option-for-signed-in-user)
 
 ## License
 
